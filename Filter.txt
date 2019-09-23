@@ -1,240 +1,115 @@
-! 11/20/2018, 9:58:27 AM https://www.howtogeek.com/331361/how-to-remove-the-3d-objects-folder-from-this-pc-on-windows-10/
-www.howtogeek.com##.overlay-inner
-
-! 11/20/2018, 9:58:31 AM https://www.howtogeek.com/331361/how-to-remove-the-3d-objects-folder-from-this-pc-on-windows-10/
-www.howtogeek.com##.email-overlay
-
-! 11/20/2018, 9:58:44 AM https://www.howtogeek.com/331361/how-to-remove-the-3d-objects-folder-from-this-pc-on-windows-10/
-www.howtogeek.com##.email-overlay
-
-! 11/20/2018, 9:58:51 AM https://www.howtogeek.com/331361/how-to-remove-the-3d-objects-folder-from-this-pc-on-windows-10/
-www.howtogeek.com##.email-overlay
-
-https://twitter.com ##[data-suggestion-json*=ActivityTweet]
-https://twitter.com ##[data-item-type="who_to_follow_entry"]
-https://twitter.com ##.has-recap
-
-##.jw-reset
-
-twitter.com##.dashboard-right.dashboard
-
-twitter.com##.trends.Trends.module
-
-twitter.com##.u-lg-size3of4.u-size2of3.Grid-cell > .Grid--withGutter.Grid > .u-size1of3.Grid-cell > .Grid--withGutter.Grid > .Grid-cell
-
-twitter.com##.stream-item-footer > .js-actions.ProfileTweet-actionList
-
-twitter.com##.js-initial-focus.logged-in.with-social-proof.js-original-tweet.js-actionable-tweet.js-actionable-user.permalink-tweet.tweet > .stream-item-footer > .js-actions.ProfileTweet-actionList
-
-twitter.com##.has-content.permalink-descendant-tweet.descendant.has-cards.dismissible-content.js-profile-popup-actionable.js-actionable-tweet.js-stream-tweet.tweet > .content > .stream-item-footer
-
-twitter.com##.is-active.ProfileNav-item--tweets.ProfileNav-item > .js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
-
-twitter.com##.ProfileNav-item--following.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
-
-twitter.com##.ProfileNav-item--followers.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
-
-twitter.com##.ProfileNav-item--favorites.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
-
-twitter.com##.ProfileNav-item--lists.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
-
-twitter.com##.ProfileUserList--socialProof.ProfileUserList
-
-twitter.com##.js-moments-tab.moments > .js-dynamic-tooltip.js-tooltip.js-nav
-
-! 11/20/2018, 12:36:10 PM https://www.linux.com/blog/2018/11/open-source-2018-it-was-best-times-it-was-worst-times
-www.linux.com##.subscription-modal-content.ctools-modal-content
-
-! 11/20/2018, 12:36:15 PM https://www.linux.com/blog/2018/11/open-source-2018-it-was-best-times-it-was-worst-times
-www.linux.com###modalBackdrop
-
-! 11/20/2018, 12:52:45 PM https://www.cnet.com/how-to/how-to-get-windows-photo-viewer-back-in-windows-10/
-www.cnet.com###leader-top-5bf45035810ea
-
-! 11/20/2018, 12:52:52 PM https://www.cnet.com/how-to/how-to-get-windows-photo-viewer-back-in-windows-10/
-www.cnet.com###lightbox-iframe-b98d37d5-b0f5-4ef9-8fdd-e85c408489e9
-
-! 11/20/2018, 12:52:58 PM https://www.cnet.com/how-to/how-to-get-windows-photo-viewer-back-in-windows-10/
-www.cnet.com###lightbox-b98d37d5-b0f5-4ef9-8fdd-e85c408489e9-1542739959630
-
-! 11/20/2018, 12:53:08 PM https://www.cnet.com/how-to/how-to-get-windows-photo-viewer-back-in-windows-10/
-www.cnet.com##.fb_digioh-overlay-fixed.fb_digioh-overlay
-
-! 11/20/2018, 12:53:16 PM https://www.cnet.com/how-to/how-to-get-windows-photo-viewer-back-in-windows-10/
-www.cnet.com##.uvpjs__btn-large-play--hidden.uvpjs__btn-large-play
-
-! 11/20/2018, 12:53:22 PM https://www.cnet.com/how-to/how-to-get-windows-photo-viewer-back-in-windows-10/
-||c-3sux78kvnkay76x24osgyjqx2emuumrkgvoyx2eius.g00.cnet.com/g00/3_c-3ccc.itkz.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fosgyjq.muumrkgvoy.iusx2fpyx2fiux78kx2fhx78ojmk9.813.6_kt.nzsrx3fo76i.sgx78qx3dolx78gsk_$/$/$/$?i10c.ua=1&i10c.dv=19$subdocument
-
-! 11/20/2018, 12:53:28 PM https://www.cnet.com/how-to/how-to-get-windows-photo-viewer-back-in-windows-10/
-www.cnet.com###-etw_obwxhIetrxk0 > div
-
-! 11/20/2018, 12:53:34 PM https://www.cnet.com/how-to/how-to-get-windows-photo-viewer-back-in-windows-10/
-www.cnet.com###-etw_obwxhIetrxk0
-
-! 11/20/2018, 12:53:40 PM https://www.cnet.com/how-to/how-to-get-windows-photo-viewer-back-in-windows-10/
-www.cnet.com###video_videoPlayer1
-
-! 11/20/2018, 12:53:45 PM https://www.cnet.com/how-to/how-to-get-windows-photo-viewer-back-in-windows-10/
-www.cnet.com###content_videoPlayer1
-
-! 11/23/2018, 1:35:42 PM https://twitter.com/mlubert
-twitter.com##.ProfileNav-item--moments.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
-
-! 12/7/2018, 12:39:33 PM https://download.cnet.com/IrfanView/3001-2192_4-10021962.html?part=dl-
-download.cnet.com###-ekvdusvhk-slhklyivhyk-hk-avw
-
-! 12/10/2018, 1:13:49 PM https://www.wholesomeyum.com/recipes/low-carb-bbq-sauce-sugar-free-gluten-free/
-www.wholesomeyum.com###GLLH-fBI2fB8sdBQriAIwfyUohhgmSer4UeL4T-j2WhcbgSUwjxgmaBwrfhUoiwHAR-goeekrUhUofxctTRb9SOj3SBQpTOn4ewH3
-
-! 12/10/2018, 1:13:54 PM https://www.wholesomeyum.com/recipes/low-carb-bbq-sauce-sugar-free-gluten-free/
-www.wholesomeyum.com###GLLH-fBI2fB8sdBQriAIwfyUohhgmSer4UeL4T-j2WhcbgSUwjxgmXxI2jRg5d-P2ThQoTxbAexQtfRj7fOj3TuL6ehT7T-Qpd-L
-
-! 12/10/2018, 3:33:14 PM http://www.tomshardware.com/forum/25090-63-what-good-ways-image-deploy-windows
-www.tomshardware.com##.jw-reset.jw-video
-
-! 12/10/2018, 3:33:19 PM http://www.tomshardware.com/forum/25090-63-what-good-ways-image-deploy-windows
-www.tomshardware.com##.jw-reset.jw-media
-
-! 12/10/2018, 3:33:24 PM http://www.tomshardware.com/forum/25090-63-what-good-ways-image-deploy-windows
-www.tomshardware.com##.jw-reset.jw-aspect
-
-! 12/10/2018, 3:33:33 PM http://www.tomshardware.com/forum/25090-63-what-good-ways-image-deploy-windows
-www.tomshardware.com###jw-1544477579881
-
-! 12/13/2018, 11:53:30 AM https://cointelegraph.com/news/samsung-dismisses-galaxy-s10-crypto-wallet-reports-as-rumor-and-speculation
-cointelegraph.com##.show-prompt.sendpulse-safari.sendpulse-prompt
-
-! 12/14/2018, 9:40:51 AM https://medium.com/waymo/waymo-one-the-next-step-on-our-self-driving-journey-6d0c075b0e9b?mc_cid=fa243f1357&mc_eid=cc6f7d2e33
-medium.com##.u-xs-margin0.u-xs-sizeViewHeight100.u-xs-sizeFullWidth.u-sm-backgroundImageNone.u-sm-heightAuto.u-sm-width600.u-margin5.u-relative.u-overflowHidden.u-padding50.u-textAlignCenter.u-boxShadow2px10pxBlackLighter.u-borderRadius4.u-borderBox.u-width900.u-height550.u-flexColumn.u-backgroundNoRepeat.u-background--brandSageLighter.uiScale-caption--regular.uiScale-ui--regular.uiScale
-
-! 12/14/2018, 9:40:56 AM https://medium.com/waymo/waymo-one-the-next-step-on-our-self-driving-journey-6d0c075b0e9b?mc_cid=fa243f1357&mc_eid=cc6f7d2e33
-medium.com##.overlay--lighter.overlay
-
-! 1/2/2019, 3:25:10 PM https://lifehacker.com/see-if-youre-using-these-popular-android-apps-that-over-1831405015
-lifehacker.com##.dANwVA.recent-video__Container-sc-16lj1xi-0
-
-! 1/9/2019, 10:00:13 AM https://www.reddit.com/
-www.reddit.com##.premium-banner
-
-! 1/14/2019, 10:25:36 AM https://gizmodo.com/president-trump-mocks-amazons-jeff-bozo-during-unhinged-1831728917
-gizmodo.com##.dANwVA.recent-video__Container-sc-16lj1xi-0
-
-! 1/14/2019, 1:19:16 PM https://smallbusiness.chron.com/compatibility-quickbooks-2010-mac-60471.html
-smallbusiness.chron.com###VtBBB6Nk-1
-
-! 1/15/2019, 9:33:08 AM https://www.cnet.com/how-to/why-ziploc-bags-are-perfectly-safe-to-use-for-sous-vide-cooking/
-www.cnet.com###videoPlayer1
-
-! 1/15/2019, 2:49:48 PM https://www.ign.com/articles/2018/08/29/nova-corps-explained-what-is-the-rumored-cosmic-marvel-movie
-www.ign.com##.mini-player.outer-container > .user-activity-tracker > .screen-wrapper > .screen > .screen-ui
-
-! 1/15/2019, 2:49:54 PM https://www.ign.com/articles/2018/08/29/nova-corps-explained-what-is-the-rumored-cosmic-marvel-movie
-www.ign.com##.mini-player.outer-container > .user-activity-tracker > .screen-wrapper > .screen
-
-! 1/15/2019, 2:50:00 PM https://www.ign.com/articles/2018/08/29/nova-corps-explained-what-is-the-rumored-cosmic-marvel-movie
-www.ign.com###player-adapter-a508ee12-2f53-4d5b-b9fa-d41926558ef5_html5_api
-
-! 1/15/2019, 2:50:06 PM https://www.ign.com/articles/2018/08/29/nova-corps-explained-what-is-the-rumored-cosmic-marvel-movie
-www.ign.com##.mini-player.outer-container
-
-! 1/15/2019, 2:50:12 PM https://www.ign.com/articles/2018/08/29/nova-corps-explained-what-is-the-rumored-cosmic-marvel-movie
-www.ign.com##.floating.floating-animation.video-embed-content-v6
-
-! 1/15/2019, 2:50:19 PM https://www.ign.com/articles/2018/08/29/nova-corps-explained-what-is-the-rumored-cosmic-marvel-movie
-www.ign.com##.has-video.queue-item-image-container
-
-! 1/15/2019, 2:50:26 PM https://www.ign.com/articles/2018/08/29/nova-corps-explained-what-is-the-rumored-cosmic-marvel-movie
-||assets1.ignimgs.com/2019/01/15/mysterio-1547561894440_320w.jpg$image
-
-! 1/16/2019, 10:36:34 AM https://www.techradar.com/reviews/ticpods-free-review
-www.techradar.com##.jw-reset.jw-video
-
-! 1/16/2019, 10:36:43 AM https://www.techradar.com/reviews/ticpods-free-review
-www.techradar.com##.jw-reset.jw-media
-
-! 1/16/2019, 10:36:48 AM https://www.techradar.com/reviews/ticpods-free-review
-www.techradar.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
-
-! 1/16/2019, 10:36:53 AM https://www.techradar.com/reviews/ticpods-free-review
-www.techradar.com##.jw-reset.jw-wrapper
-
-! 1/16/2019, 10:37:00 AM https://www.techradar.com/reviews/ticpods-free-review
-www.techradar.com###botr_KgQ4BrDw_APjl6osP_div > .jw-reset.jw-aspect
-
-! 1/18/2019, 2:56:33 PM https://venturebeat.com/2017/12/11/thrustmasters-xbox-one-hotas-joystick-is-excellent-if-you-love-elite-dangerous/
-||cdn5.anyclip.com/AWhYlyWhs1JjXppeUdKU/clip/AWhYl-_ls5G85YzVZnLf/clip_1280x720_1547674636128.mp4$media
-
-! 1/18/2019, 2:56:39 PM https://venturebeat.com/2017/12/11/thrustmasters-xbox-one-hotas-joystick-is-excellent-if-you-love-elite-dangerous/
-venturebeat.com###vjs_video_3
-
-! 2/1/2019 https://www.fastcompany.com
-www.fastcompany.com##.nav__main-items
-www.fastcompany.com##.nav__list
-
-! 2/7/2019 https://twitter.com
-twitter.com##.SidebarCommonModules
-
-! 2/8/2019 https://beyondwestworld.com
-beyondwestworld.com###jumpstart_video_1_html5_api
-beyondwestworld.com###jumpstart_video_1
-
-! 2/11/2019 https://www.techadvisor.co.uk
-www.techadvisor.co.uk###cnxpl-overlay
-www.techadvisor.co.uk###vpaid_b441c5a27960eaae54b61549910563741 > [src="javascript:false"]
-www.techadvisor.co.uk###vpaid_b441c5a27960eaae54b61549910563741
-www.techadvisor.co.uk###cnx-ad-slotf2e8c7be224463d62d9d1549910563738
-www.techadvisor.co.uk##.cnxpl-vpaid-slot
-www.techadvisor.co.uk###cnx-autoplay-container
-
-! 2/14/2019 https://www.inverse.com
-www.inverse.com##.a-mod__wp
-www.inverse.com##.a-mod--c.a-mod
-www.inverse.com##.ov.modc__ov
-
-! 2/15/2019 https://www.reddit.com
-www.reddit.com##.trending-subreddits-content
-
-! 3/4/2019 https://www.popsci.com
-www.popsci.com###ds_content_frame_parent > div:nth-of-type(2)
-||c-4tvylwolbz88x24j2e5p4j4x2ezzsx2eodjkux2eula.g01.popsci.com/g00/3_c-4ddd.wvwzjp.jvt_/c-4TVYLWOLBZ88x24oaawzx3ax2fx2fj2e5p4j4.zzs.odjku.ulax2fcwshfly-whyhsslsx2f97857382_8925x2fcpklvqzx2fzovd.oatsx3fjvuayvszx3d8x26svvwx3d07x26hbavwshfx3d7x26ayhjrlyx3dmim2h408-i143-1323-6ih9-283h11897l3ix26olpnoax3d030x26dpkaox3d312x26cbysx3dx259Mx259Mj2e5p4j4.zzs.odjku.ulax259Mcpklvzx259Mknc_wvwzjpx259M97867071738804_2j4ji9k4l9129x259Mknc_wvwzjp_aylukpun_hyapjslz_97867071738804_2j4ji9k4l9129_uld.tw1x26wvzalyx3dx259Mx259Mj2e5p4j4.zzs.odjku.ulax259Mcpklvzx259Mknc_wvwzjpx259M97867071738804_2j4ji9k4l9129x259Mknc_wvwzjp_aylukpun_hyapjslz_97867071738804_2j4ji9k4l9129_uld.qwnx26p87j.thyrx3dpmyhtl_$/$/$/$/$?i10c.ua=1&i10c.dv=23$subdocument
-www.popsci.com###ds_cpp
-
-! 3/15/2019 https://www.nytimes.com
-www.nytimes.com##div.egw6tc41.css-70rfte:nth-of-type(2)
-
-! 3/20/2019 https://twitter.com
-twitter.com###stream-item-who_to_follow_entry-1108367592119390209
-
-! 3/28/2019 https://arstechnica.com
 arstechnica.com##.cne-interlude-container
-
-! 3/29/2019 https://news.avclub.com
+||assets1.ignimgs.com/2019/01/15/mysterio-1547561894440_320w.jpg$image
+beyondwestworld.com###jumpstart_video_1
+beyondwestworld.com###jumpstart_video_1_html5_api
+||c-3sux78kvnkay76x24osgyjqx2emuumrkgvoyx2eius.g00.cnet.com/g00/3_c-3ccc.itkz.ius_/c-3SUXKVNKAY76x24nzzvyx3ax2fx2fosgyjq.muumrkgvoy.iusx2fpyx2fiux78kx2fhx78ojmk9.813.6_kt.nzsrx3fo76i.sgx78qx3dolx78gsk_$/$/$/$?i10c.ua=1&i10c.dv=19$subdocument
+||c-4tvylwolbz88x24j2e5p4j4x2ezzsx2eodjkux2eula.g01.popsci.com/g00/3_c-4ddd.wvwzjp.jvt_/c-4TVYLWOLBZ88x24oaawzx3ax2fx2fj2e5p4j4.zzs.odjku.ulax2fcwshfly-whyhsslsx2f97857382_8925x2fcpklvqzx2fzovd.oatsx3fjvuayvszx3d8x26svvwx3d07x26hbavwshfx3d7x26ayhjrlyx3dmim2h408-i143-1323-6ih9-283h11897l3ix26olpnoax3d030x26dpkaox3d312x26cbysx3dx259Mx259Mj2e5p4j4.zzs.odjku.ulax259Mcpklvzx259Mknc_wvwzjpx259M97867071738804_2j4ji9k4l9129x259Mknc_wvwzjp_aylukpun_hyapjslz_97867071738804_2j4ji9k4l9129_uld.tw1x26wvzalyx3dx259Mx259Mj2e5p4j4.zzs.odjku.ulax259Mcpklvzx259Mknc_wvwzjpx259M97867071738804_2j4ji9k4l9129x259Mknc_wvwzjp_aylukpun_hyapjslz_97867071738804_2j4ji9k4l9129_uld.qwnx26p87j.thyrx3dpmyhtl_$/$/$/$/$?i10c.ua=1&i10c.dv=23$subdocument
+||cdn5.anyclip.com/AWhYlyWhs1JjXppeUdKU/clip/AWhYl-_ls5G85YzVZnLf/clip_1280x720_1547674636128.mp4$media
+cointelegraph.com##.show-prompt.sendpulse-safari.sendpulse-prompt
+download.cnet.com###-ekvdusvhk-slhklyivhyk-hk-avw
+gizmodo.com##.dANwVA.recent-video__Container-sc-16lj1xi-0
+https://twitter.com ##[data-item-type="who_to_follow_entry"]
+https://twitter.com ##.has-recap##.jw-resettwitter.com##.dashboard-right.dashboardtwitter.com##.trends.Trends.moduletwitter.com##.u-lg-size3of4.u-size2of3.Grid-cell > .Grid--withGutter.Grid > .u-size1of3.Grid-cell > .Grid--withGutter.Grid > .Grid-celltwitter.com##.stream-item-footer > .js-actions.ProfileTweet-actionListtwitter.com##.js-initial-focus.logged-in.with-social-proof.js-original-tweet.js-actionable-tweet.js-actionable-user.permalink-tweet.tweet > .stream-item-footer > .js-actions.ProfileTweet-actionListtwitter.com##.has-content.permalink-descendant-tweet.descendant.has-cards.dismissible-content.js-profile-popup-actionable.js-actionable-tweet.js-stream-tweet.tweet > .content > .stream-item-footertwitter.com##.is-active.ProfileNav-item--tweets.ProfileNav-item > .js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stattwitter.com##.ProfileNav-item--following.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stattwitter.com##.ProfileNav-item--followers.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stattwitter.com##.ProfileNav-item--favorites.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stattwitter.com##.ProfileNav-item--lists.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stattwitter.com##.ProfileUserList--socialProof.ProfileUserListtwitter.com##.js-moments-tab.moments > .js-dynamic-tooltip.js-tooltip.js-nav
+lifehacker.com##.dANwVA.recent-video__Container-sc-16lj1xi-0
+medium.com##.overlay--lighter.overlay
+medium.com##.u-xs-margin0.u-xs-sizeViewHeight100.u-xs-sizeFullWidth.u-sm-backgroundImageNone.u-sm-heightAuto.u-sm-width600.u-margin5.u-relative.u-overflowHidden.u-padding50.u-textAlignCenter.u-boxShadow2px10pxBlackLighter.u-borderRadius4.u-borderBox.u-width900.u-height550.u-flexColumn.u-backgroundNoRepeat.u-background--brandSageLighter.uiScale-caption--regular.uiScale-ui--regular.uiScale
 news.avclub.com##.dANwVA.recent-video__Container-sc-16lj1xi-0
-
-! 4/8/2019 https://www.reddit.com
-www.reddit.com##div.fePAzF.ii4q9d-0:nth-of-type(4) > .bqxCsD.s17ivpdx-0 > .TmgZY6tDcdErbE5d7E0HJ
-www.reddit.com##._ZhON3a3vplThB8NFwuJn
-
-! 4/11/2019 https://twitter.com
+smallbusiness.chron.com###VtBBB6Nk-1
+twitter.com##div:nth-of-type(1) > .r-1adg3ll.r-qklmqi.r-my5ep6.css-1dbjc4n > .r-1j63xyz.r-o7ynqc.r-1loqt21.css-1dbjc4n > .r-1wqkr8a.r-utggzx.r-1udh08x.r-1loqt21.css-1dbjc4n > .r-thb0q2.r-18u37iz.css-1dbjc4n > .r-bcqeeo.r-5f2r5o.r-46vdb2.r-1iusvr4.css-1dbjc4n > .r-1mdbhws.r-156q2ks.r-1wtj0ep.r-18u37iz.css-1dbjc4n
+twitter.com##div:nth-of-type(40) > .r-1adg3ll.css-1dbjc4n > .r-1j63xyz.r-o7ynqc.r-1loqt21.css-1dbjc4n > .r-rjfia.r-utggzx.r-1udh08x.r-1loqt21.css-1dbjc4n > .r-thb0q2.r-18u37iz.css-1dbjc4n > .r-1k3wbuw.r-l4ido4.r-bcqeeo.r-5f2r5o.r-46vdb2.r-1iusvr4.css-1dbjc4n > .r-1mdbhws.r-156q2ks.r-1wtj0ep.r-18u37iz.css-1dbjc4n
+twitter.com##div:nth-of-type(6) > .r-1adg3ll.r-qklmqi.r-my5ep6.css-1dbjc4n > .r-1j63xyz.r-o7ynqc.r-1loqt21.css-1dbjc4n > .r-1wqkr8a.r-utggzx.r-1udh08x.r-1loqt21.css-1dbjc4n > .r-thb0q2.r-18u37iz.css-1dbjc4n > .r-bcqeeo.r-5f2r5o.r-46vdb2.r-1iusvr4.css-1dbjc4n > .r-1mdbhws.r-156q2ks.r-1wtj0ep.r-18u37iz.css-1dbjc4n
+twitter.com##div:nth-of-type(7) > .r-1adg3ll.r-qklmqi.r-my5ep6.css-1dbjc4n > .r-1j63xyz.r-o7ynqc.r-1loqt21.css-1dbjc4n > .r-rjfia.r-utggzx.r-l4ido4.r-1udh08x.r-1loqt21.css-1dbjc4n > .r-thb0q2.r-18u37iz.css-1dbjc4n > .r-1k3wbuw.r-bcqeeo.r-5f2r5o.r-46vdb2.r-1iusvr4.css-1dbjc4n > .r-1mdbhws.r-156q2ks.r-1wtj0ep.r-18u37iz.css-1dbjc4n > div.r-1h0z5md.r-16y2uox.r-18u37iz.r-1iusvr4.css-1dbjc4n:nth-of-type(1)
+twitter.com##div:nth-of-type(7) > .r-1adg3ll.r-qklmqi.r-my5ep6.css-1dbjc4n > .r-1j63xyz.r-o7ynqc.r-1loqt21.css-1dbjc4n > .r-rjfia.r-utggzx.r-l4ido4.r-1udh08x.r-1loqt21.css-1dbjc4n > .r-thb0q2.r-18u37iz.css-1dbjc4n > .r-1k3wbuw.r-bcqeeo.r-5f2r5o.r-46vdb2.r-1iusvr4.css-1dbjc4n > .r-1mdbhws.r-156q2ks.r-1wtj0ep.r-18u37iz.css-1dbjc4n > div.r-1h0z5md.r-16y2uox.r-18u37iz.r-1iusvr4.css-1dbjc4n:nth-of-type(2)
+twitter.com##div:nth-of-type(7) > .r-1adg3ll.r-qklmqi.r-my5ep6.css-1dbjc4n > .r-1j63xyz.r-o7ynqc.r-1loqt21.css-1dbjc4n > .r-rjfia.r-utggzx.r-l4ido4.r-1udh08x.r-1loqt21.css-1dbjc4n > .r-thb0q2.r-18u37iz.css-1dbjc4n > .r-1k3wbuw.r-bcqeeo.r-5f2r5o.r-46vdb2.r-1iusvr4.css-1dbjc4n > .r-1mdbhws.r-156q2ks.r-1wtj0ep.r-18u37iz.css-1dbjc4n > div.r-1h0z5md.r-16y2uox.r-18u37iz.r-1iusvr4.css-1dbjc4n:nth-of-type(3)
+twitter.com##div:nth-of-type(7) > .r-1adg3ll.r-qklmqi.r-my5ep6.css-1dbjc4n > .r-1j63xyz.r-o7ynqc.r-1loqt21.css-1dbjc4n > .r-rjfia.r-utggzx.r-l4ido4.r-1udh08x.r-1loqt21.css-1dbjc4n > .r-thb0q2.r-18u37iz.css-1dbjc4n > .r-1k3wbuw.r-bcqeeo.r-5f2r5o.r-46vdb2.r-1iusvr4.css-1dbjc4n > .r-1mdbhws.r-156q2ks.r-1wtj0ep.r-18u37iz.css-1dbjc4n > div.r-1h0z5md.r-16y2uox.r-18u37iz.r-1iusvr4.css-1dbjc4n:nth-of-type(4)
+twitter.com##div > .r-1adg3ll.css-1dbjc4n > .r-1j63xyz.r-o7ynqc.r-1loqt21.css-1dbjc4n > .r-rjfia.r-1k3wbuw.r-utggzx.r-1udh08x.r-1loqt21.css-1dbjc4n > .r-thb0q2.r-18u37iz.css-1dbjc4n > .r-l4ido4.r-bcqeeo.r-5f2r5o.r-46vdb2.r-1iusvr4.css-1dbjc4n > .r-1mdbhws.r-156q2ks.r-1wtj0ep.r-18u37iz.css-1dbjc4n > div.r-1h0z5md.r-16y2uox.r-18u37iz.r-1iusvr4.css-1dbjc4n:nth-of-type(1)
+twitter.com##div > .r-1adg3ll.r-qklmqi.r-my5ep6.css-1dbjc4n > .r-1j63xyz.r-o7ynqc.r-1loqt21.css-1dbjc4n > .r-1wqkr8a.r-utggzx.r-1udh08x.r-1loqt21.css-1dbjc4n > .r-thb0q2.r-18u37iz.css-1dbjc4n > .r-bcqeeo.r-5f2r5o.r-46vdb2.r-1iusvr4.css-1dbjc4n > .r-1mdbhws.r-156q2ks.r-1wtj0ep.r-18u37iz.css-1dbjc4n > div.r-1h0z5md.r-16y2uox.r-18u37iz.r-1iusvr4.css-1dbjc4n:nth-of-type(1)
+twitter.com##div> .r-1adg3ll.r-qklmqi.r-my5ep6.css-1dbjc4n > .r-1j63xyz.r-o7ynqc.r-1loqt21.css-1dbjc4n > .r-1wqkr8a.r-utggzx.r-1udh08x.r-1loqt21.css-1dbjc4n > .r-thb0q2.r-18u37iz.css-1dbjc4n > .r-bcqeeo.r-5f2r5o.r-46vdb2.r-1iusvr4.css-1dbjc4n > .r-1mdbhws.r-156q2ks.r-1wtj0ep.r-18u37iz.css-1dbjc4n > div.r-1h0z5md.r-16y2uox.r-18u37iz.r-1iusvr4.css-1dbjc4n:nth-of-type(2)
+twitter.com##div > .r-1adg3ll.r-qklmqi.r-my5ep6.css-1dbjc4n > .r-1j63xyz.r-o7ynqc.r-1loqt21.css-1dbjc4n > .r-1wqkr8a.r-utggzx.r-1udh08x.r-1loqt21.css-1dbjc4n > .r-thb0q2.r-18u37iz.css-1dbjc4n > .r-bcqeeo.r-5f2r5o.r-46vdb2.r-1iusvr4.css-1dbjc4n > .r-1mdbhws.r-156q2ks.r-1wtj0ep.r-18u37iz.css-1dbjc4n > div.r-1h0z5md.r-16y2uox.r-18u37iz.r-1iusvr4.css-1dbjc4n:nth-of-type(3)
+twitter.com##div > .r-1adg3ll.r-qklmqi.r-my5ep6.css-1dbjc4n > .r-1j63xyz.r-o7ynqc.r-1loqt21.css-1dbjc4n > .r-1wqkr8a.r-utggzx.r-1udh08x.r-1loqt21.css-1dbjc4n > .r-thb0q2.r-18u37iz.css-1dbjc4n > .r-bcqeeo.r-5f2r5o.r-46vdb2.r-1iusvr4.css-1dbjc4n > .r-1mdbhws.r-156q2ks.r-1wtj0ep.r-18u37iz.css-1dbjc4n > div.r-1h0z5md.r-16y2uox.r-18u37iz.r-1iusvr4.css-1dbjc4n:nth-of-type(4)
+twitter.com##.ProfileNav-item--moments.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
+twitter.com##.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-1sp51qo.r-1wtj0ep.r-qklmqi.r-rull8r.r-my5ep6.css-1dbjc4n
+twitter.com##.r-1ovo9ad.r-1udh08x.r-zso239.r-1joea0r.r-aqfbo4.css-1dbjc4n
+twitter.com##.r-ifefl9.r-1pi2tsx.css-1dbjc4n
+twitter.com##.r-m611by.r-1l5qxre.css-1dbjc4n
+twitter.com##.r-rjfia.r-1k3wbuw.r-utggzx.r-1udh08x.r-1loqt21.css-1dbjc4n > .r-thb0q2.r-18u37iz.css-1dbjc4n > .r-l4ido4.r-bcqeeo.r-5f2r5o.r-46vdb2.r-1iusvr4.css-1dbjc4n > .r-1mdbhws.r-156q2ks.r-1wtj0ep.r-18u37iz.css-1dbjc4n > div.r-1h0z5md.r-16y2uox.r-18u37iz.r-1iusvr4.css-1dbjc4n
+twitter.com##.r-rjfia.r-1k3wbuw.r-utggzx.r-l4ido4.r-1udh08x.r-1loqt21.css-1dbjc4n > .r-thb0q2.r-18u37iz.css-1dbjc4n > .r-bcqeeo.r-5f2r5o.r-46vdb2.r-1iusvr4.css-1dbjc4n > .r-1mdbhws.r-156q2ks.r-1wtj0ep.r-18u37iz.css-1dbjc4n
+twitter.com##.r-rjfia.r-1k3wbuw.r-utggzx.r-l4ido4.r-1udh08x.r-1loqt21.css-1dbjc4n > .r-thb0q2.r-18u37iz.css-1dbjc4n > .r-bcqeeo.r-5f2r5o.r-46vdb2.r-1iusvr4.css-1dbjc4n > .r-1mdbhws.r-156q2ks.r-1wtj0ep.r-18u37iz.css-1dbjc4n > div.r-1h0z5md.r-16y2uox.r-18u37iz.r-1iusvr4.css-1dbjc4n
+twitter.com##.r-rjfia.r-utggzx.r-l4ido4.r-1udh08x.r-1loqt21.css-1dbjc4n > .r-thb0q2.r-18u37iz.css-1dbjc4n > .r-1k3wbuw.r-bcqeeo.r-5f2r5o.r-46vdb2.r-1iusvr4.css-1dbjc4n > .r-1mdbhws.r-156q2ks.r-1wtj0ep.r-18u37iz.css-1dbjc4n
+twitter.com##.SidebarCommonModules
+twitter.com###stream-item-who_to_follow_entry-1108367592119390209
 twitter.com###stream-item-who_to_follow_entry-1116428416318730239
-
-! 4/24/2019 https://www.reddit.com
-www.reddit.com###HeaderUserActions--Chat > .ejTUqr.t5ih1g-4
-
-! 4/24/2019 https://www.linkedin.com
+twitter.com###stream-item-who_to_follow_entry-1144238502038659072
+venturebeat.com###vjs_video_3
+||www.cnet.com/bundles/cnetvideo/html/livestream_wwdc.html$subdocument
+www.cnet.com###content_videoPlayer1
+www.cnet.com###-etw_obwxhIetrxk0
+www.cnet.com###-etw_obwxhIetrxk0 > div
+www.cnet.com##.fb_digioh-overlay-fixed.fb_digioh-overlay
+www.cnet.com###leader-top-5bf45035810ea
+www.cnet.com###lightbox-b98d37d5-b0f5-4ef9-8fdd-e85c408489e9-1542739959630
+www.cnet.com###lightbox-iframe-b98d37d5-b0f5-4ef9-8fdd-e85c408489e9
+www.cnet.com##.uvpjs__btn-large-play--hidden.uvpjs__btn-large-play
+www.cnet.com###videoPlayer1
+www.cnet.com###video_videoPlayer1
+www.digitaltrends.com###vjs_video_1_html5_api
+www.fastcompany.com##.nav__list
+www.fastcompany.com##.nav__main-items
+www.howtogeek.com##.email-overlay
+www.howtogeek.com##.email-overlayhttps://twitter.com ##[data-suggestion-json*=ActivityTweet]
+www.howtogeek.com##.overlay-inner
+www.ign.com##.floating.floating-animation.video-embed-content-v6
+www.ign.com##.has-video.queue-item-image-container
+www.ign.com##.mini-player.outer-container
+www.ign.com##.mini-player.outer-container > .user-activity-tracker > .screen-wrapper > .screen
+www.ign.com##.mini-player.outer-container > .user-activity-tracker > .screen-wrapper > .screen > .screen-ui
+www.ign.com###player-adapter-a508ee12-2f53-4d5b-b9fa-d41926558ef5_html5_api
+www.inverse.com##.a-mod--c.a-mod
+www.inverse.com##.a-mod__wp
+www.inverse.com##.ov.modc__ov
 www.linkedin.com###ember147
+www.linkedin.com###ember307
+www.linkedin.com###ember309
+www.linkedin.com###ember574
+www.linkedin.com###ember710
 www.linkedin.com##.mh0.mv4.feed-follows-module
 www.linkedin.com##.msg-overlay-bubble-header
 www.linkedin.com##.msg-overlay-list-bubble__content--scrollable.msg-overlay-list-bubble__content
-www.linkedin.com###ember574
-
-! 5/10/2019 https://www.reddit.com
-www.reddit.com###HeaderUserActions--Chat
-
-! 5/17/2019 https://www.reddit.com
+www.linkedin.com##.right-rail.feed-right-rail
+www.linux.com###modalBackdrop
+www.linux.com##.subscription-modal-content.ctools-modal-content
+www.nytimes.com##div.egw6tc41.css-70rfte:nth-of-type(2)
+www.popsci.com###ds_content_frame_parent > div:nth-of-type(2)
+www.popsci.com###ds_cpp
+www.reddit.com##._1BFbVxT49QnrAN3fqGZ1z8
+www.reddit.com##._1vYrJH5uc57mZQJPN4l34E > ._2vEf-C2keJaBMY9qk_BxVn > ._2c-vsdp-tGBM0QBPbMrQFy
+www.reddit.com##._2LVnfX2Exeku8qbknNjlSc
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(4) > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV > .TmgZY6tDcdErbE5d7E0HJ
 www.reddit.com##div.fePAzF.ii4q9d-0:nth-of-type(2) > .dpUElj.s12j7ec3-0.hTCVNC.kcvrla-1
+www.reddit.com##div.fePAzF.ii4q9d-0:nth-of-type(4) > .bqxCsD.s17ivpdx-0 > .TmgZY6tDcdErbE5d7E0HJ
 www.reddit.com##div.fePAzF.ii4q9d-0:nth-of-type(4) > .dpUElj.s12j7ec3-0 > .TmgZY6tDcdErbE5d7E0HJ
-
-! 5/29/2019 https://www.digitaltrends.com
-www.digitaltrends.com###vjs_video_1_html5_api
+www.reddit.com##.ebgfEW.s1jx2a0a-0._1FUNcfOeszr8eruqLxCMcR
+www.reddit.com###header-quicklinks-rpan
+www.reddit.com###HeaderUserActions--Chat
+www.reddit.com###HeaderUserActions--Chat > .ejTUqr.t5ih1g-4
+www.reddit.com##.premium-banner
+www.reddit.com##.trending-subreddits-content
+www.reddit.com##._ZhON3a3vplThB8NFwuJn
+www.techadvisor.co.uk###cnx-ad-slotf2e8c7be224463d62d9d1549910563738
+www.techadvisor.co.uk###cnx-autoplay-container
+www.techadvisor.co.uk###cnxpl-overlay
+www.techadvisor.co.uk##.cnxpl-vpaid-slot
+www.techadvisor.co.uk###vpaid_b441c5a27960eaae54b61549910563741
+www.techadvisor.co.uk###vpaid_b441c5a27960eaae54b61549910563741 > [src="javascript:false"]
+www.techradar.com###botr_KgQ4BrDw_APjl6osP_div > .jw-reset.jw-aspect
+www.techradar.com##.jw-reset.jw-media
+www.techradar.com##.jw-reset.jw-video
+www.techradar.com##.jw-reset.jw-wrapper
+www.techradar.com##.jw-reset.jw-wrapper > .jw-reset.jw-aspect
+www.tomshardware.com###jw-1544477579881
+www.tomshardware.com##.jw-reset.jw-aspect
+www.tomshardware.com##.jw-reset.jw-media
+www.tomshardware.com##.jw-reset.jw-video
+www.vanityfair.com###\36 5d633ca-96c1-175e-cca4-f08e5fb67b09 > iframe
+www.wholesomeyum.com###GLLH-fBI2fB8sdBQriAIwfyUohhgmSer4UeL4T-j2WhcbgSUwjxgmaBwrfhUoiwHAR-goeekrUhUofxctTRb9SOj3SBQpTOn4ewH3
+www.wholesomeyum.com###GLLH-fBI2fB8sdBQriAIwfyUohhgmSer4UeL4T-j2WhcbgSUwjxgmXxI2jRg5d-P2ThQoTxbAexQtfRj7fOj3TuL6ehT7T-Qpd-L
